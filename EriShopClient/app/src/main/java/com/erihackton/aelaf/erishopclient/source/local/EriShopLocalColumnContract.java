@@ -10,7 +10,7 @@ public class EriShopLocalColumnContract {
     public EriShopLocalColumnContract() {
     }
     //https://github.com/EriHackathon/AfroSell.git
-   
+
     public static abstract class DbEntry implements BaseColumns {
         public static final String USER_TABLE_NAME = "user";
         public static final String COLUMN_USER_ID = "id";
